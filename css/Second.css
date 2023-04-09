@@ -1,0 +1,30 @@
+.title_box{
+    width: 1440px;
+    height: 100%;
+}
+.btn_2{
+
+    position: absolute;
+    top: 5px;
+    right: 25px;
+    color: white;
+    padding: 10px;
+}
+.title{
+    width: 1440px;
+    height: 80px;
+    padding: 0px 0px;
+    background:white;
+}
+.btn_3{
+
+    position: absolute;
+    top: 2000px;
+    right: 0px;
+    color: white;
+    padding: 10px;
+}
+.text{-
+    font: bold 32px/34px Helvetica, Sen;
+    color: black;
+}
